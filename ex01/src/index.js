@@ -13,7 +13,7 @@ for(var i = 1; i < 4; i++) {
 }
 
 
-console.log(multiplication(3).next().value);
+console.log(multiplication(3).next());
 console.log(myArr);
 // Only change code above this line
 module.exports = multiplication;
